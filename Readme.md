@@ -19,7 +19,7 @@
 ### `01` &nbsp;OBSERVATION LOG
 
 | ID | OBJECT | OBSERVATION | STACK |
-|:--|:--|:--|:--|:--|
+|:--|:--|:--|:-- |
 | `OBJ-001` | **Seismic Fault Detection** | Deep learning model that automatically detects geological faults in seismic images. | `PyTorch` `Python` `NumPy` |
 | `OBJ-002` | **SIMA Air Quality Analysis** | Analysis of PM2.5 and PM10 across Monterrey's air-quality monitoring stations. | `Python` `pandas` `R` |
 | `OBJ-003` | **Portfolio Website** | Personal site built with React + Vite on top of a custom design system. | `React` `Vite` `JavaScript` |
