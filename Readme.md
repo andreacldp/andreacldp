@@ -16,28 +16,7 @@
 
 <br>
 
-### `01` &nbsp;SYSTEM
-
-```text
-       ·    .    ·          andrea@obs-log
-   .   .-~~~~~~~-.   .      ────────────────────────────────────────────
- ·   .'  .-----.  '.   ·    NAME     Andrea De la Peña Contreras
-── (  (  (     )  )  ) ──   ROLE     Data Science & Mathematical Eng. student
- ·   '.  '-----'  .'   ·    ORG      Tec de Monterrey · class of 2028
-   .   '-~~~~~~~-'   .      INTERN   Data Analysis Intern @ CYDSA
-       ·    .    ·          CLUB     Finance Director · Data Science Club
-                            PREV     Finance Director · Women in Technology
-                            FOCUS    machine learning · stochastic optimization
-                                     multivariate statistics
-                            SCIENCE  astrophysics · geoscience · neuroimaging
-                            LANG     ES (native) · EN (C1)
-                            LOC      Monterrey, MX
-                            STATUS   open to data science internships
-```
-
-<br>
-
-### `02` &nbsp;OBSERVATION LOG
+### `01` &nbsp;OBSERVATION LOG
 
 | ID | OBJECT | OBSERVATION | STACK | DATA |
 |:--|:--|:--|:--|:--|
@@ -50,7 +29,7 @@
 
 <br>
 
-### `03` &nbsp;INSTRUMENTS
+### `02` &nbsp;INSTRUMENTS
 
 <sub>`LANGUAGES & LIBRARIES`</sub><br>
 ![Python](https://img.shields.io/badge/Python-0B0B0D?style=flat-square&logo=python&logoColor=F4A7B9)
@@ -78,7 +57,7 @@
 
 <br>
 
-### `04` &nbsp;TELEMETRY
+### `03` &nbsp;TELEMETRY
 
 <p>
 <picture>
@@ -93,7 +72,7 @@
 
 <br>
 
-### `05` &nbsp;CHANNELS
+### `04` &nbsp;CHANNELS
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0B0B0D?style=flat-square)]([https://www.linkedin.com/in/andreacldp/])
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B0B0D?style=flat-square)]([https://an-portfolio-ashen.vercel.app/])
