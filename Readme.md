@@ -74,8 +74,8 @@
 
 ### `04` &nbsp;CHANNELS
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0B0B0D?style=flat-square)]([https://www.linkedin.com/in/andreacldp/])
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B0B0D?style=flat-square)]([https://an-portfolio-ashen.vercel.app/])
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0B0B0D?style=flat-square)](https://www.linkedin.com/in/andreacldp/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B0B0D?style=flat-square)](https://an-portfolio-ashen.vercel.app/)
 [![Email](https://img.shields.io/badge/EMAIL-F4A7B9?style=flat-square)](mailto:[andrea.edlpc@hotmail.com])
 
 <br>
