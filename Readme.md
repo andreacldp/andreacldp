@@ -20,9 +20,9 @@
 
 | ID | OBJECT | OBSERVATION | STACK | DATA |
 |:--|:--|:--|:--|:--|
-| `OBJ-001` | **Seismic Fault Detection** | Deep learning model that automatically detects geological faults in seismic images. | `PyTorch` `Python` `NumPy` | [→ repo]([LINK]) |
-| `OBJ-002` | **SIMA Air Quality Analysis** | Analysis of PM2.5 and PM10 across Monterrey's air-quality monitoring stations. | `Python` `pandas` `R` | [→ repo]([LINK]) |
-| `OBJ-003` | **Portfolio Website** | Personal site built with React + Vite on top of a custom design system. | `React` `Vite` `JavaScript` | [→ repo]([LINK]) |
+| `OBJ-001` | **Seismic Fault Detection** | Deep learning model that automatically detects geological faults in seismic images. | `PyTorch` `Python` `NumPy` |
+| `OBJ-002` | **SIMA Air Quality Analysis** | Analysis of PM2.5 and PM10 across Monterrey's air-quality monitoring stations. | `Python` `pandas` `R` |
+| `OBJ-003` | **Portfolio Website** | Personal site built with React + Vite on top of a custom design system. | `React` `Vite` `JavaScript` |
 <!-- NEW OBJECT — copy this row, remove the comment tags and fill it in:
 | `OBJ-004` | **Project Name** | One or two lines on what it does and what you found. | `Tool` `Tool` | [→ repo]([LINK]) |
 -->
